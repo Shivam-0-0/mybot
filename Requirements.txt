@@ -1,2 +1,3 @@
-Telebot
+Telebo
+Python
 bot.message_handler
