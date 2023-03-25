@@ -1,3 +1,2 @@
-Telebot
-Python
-bot.message_handler
+Python 3.6
+telebot
