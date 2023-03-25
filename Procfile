@@ -1,1 +1,1 @@
-wroker: Python <OTP>.py
+web: python OTP.py
